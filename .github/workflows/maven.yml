@@ -20,3 +20,5 @@ jobs: # list des jobs à effectuer
         run: mvn -B -DskipTests clean package # On lance la commande maven qui lance le build du code
       - name: Build the tests #
         run: mvn test
+        Username: iuts3.class
+        Password: kvkekkddxgmibljv
