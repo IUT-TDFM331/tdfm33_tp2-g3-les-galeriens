@@ -12,5 +12,8 @@ On peut dire que le temps est du au nombres de tests à faire en effet il va par
 IsWellSortedLargeArrays est celui qui prend le plus du temps car elle porte sur une liste de 50 000 valeurs.
 
 ## Reponse 3.A.2 Relancer les tests à nouveau.Qu'avez-vous remarqué ?
-Nous pounvons remarquer que les testes ne fonctionnent pas en effet la methode que nous avons rajoutée
-ce trouve en dehors de la classe SortAlgorithms.
+Nous pouvons remarquer que les testes ne fonctionnent pas en effet la methode que nous avons rajouté
+se trouve en dehors de la classe SortAlgorithms.
+
+## Reponse 3.A.4  Demandez aux autres membres du groupe de récupérer les derniers changements ? Que remarquez-vous ? 
+Nous pouvons remarquer que les autres membres pouvons tout de même récuperer les erreurs. 
