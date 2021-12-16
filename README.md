@@ -10,3 +10,7 @@ G3
 Les tests prennent environ 17 secondes.
 On peut dire que le temps est du au nombres de tests à faire en effet il va parcourir des liste conséquentes : 
 IsWellSortedLargeArrays est celui qui prend le plus du temps car elle porte sur une liste de 50 000 valeurs.
+
+## Reponse 3.A.2 Relancer les tests à nouveau.Qu'avez-vous remarqué ?
+Nous pounvons remarquer que les testes ne fonctionnent pas en effet la methode que nous avons rajoutée
+ce trouve en dehors de la classe SortAlgorithms.
