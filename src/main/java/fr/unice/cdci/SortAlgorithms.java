@@ -20,3 +20,4 @@ public class SortAlgorithms {
         // Cette méthode ne fait rien pour l'instant
     }
 }
+}
