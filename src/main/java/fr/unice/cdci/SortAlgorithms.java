@@ -18,7 +18,3 @@ public class SortAlgorithms {
     }
 }
 
-    public void reverseSort(Integer[] values) {
-        // Cette méthode ne fait rien pour l'instant
-    }
-
