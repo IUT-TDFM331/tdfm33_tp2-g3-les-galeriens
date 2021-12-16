@@ -17,3 +17,13 @@ se trouve en dehors de la classe SortAlgorithms.
 
 ## Reponse 3.A.4  Demandez aux autres membres du groupe de récupérer les derniers changements ? Que remarquez-vous ? 
 Nous pouvons remarquer que les autres membres pouvons tout de même récuperer les erreurs. 
+
+## Reponse 3.A.9  Lancez les tests Que remarquez-vous ? 
+Quand on lance les tests en enlevant les commentaires dans le fichier SortAlgorithmsTest nous obtenons des erreurs tels que:
+```
+INFO: Method [badTest] took 0 ms.
+
+org.opentest4j.AssertionFailedError: 
+Expected :true
+Actual   :false
+```
