@@ -27,3 +27,6 @@ org.opentest4j.AssertionFailedError:
 Expected :true
 Actual   :false
 ```
+
+## Reponse 3.A.10 
+Nous pouvons remarquer qu'il ya un problème dans notre projet on ne peut plus le build donc même si aucune erreur n'est declaré et que le push est possible ce n'est pas forcément juste.

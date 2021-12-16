@@ -59,7 +59,7 @@ class SortAlgorithmsTest {
         testSortingAlgorithm(arrayToTest);
         testSortingAlgorithm(arrayToTest);
     }
-
+/*
     @DisplayName("Should fail : to test Continuous Integration")
     @Test
     void badTest() {
@@ -70,7 +70,7 @@ class SortAlgorithmsTest {
         assertTrue(input[0] <= valueToTest);
         assertTrue(valueToTest <= input[input.length - 1]);
     }
-
+*/
     void testSortingAlgorithm(Integer[] input) {
         int length = input.length;
         SortAlgorithms.bubbleSort(input);
