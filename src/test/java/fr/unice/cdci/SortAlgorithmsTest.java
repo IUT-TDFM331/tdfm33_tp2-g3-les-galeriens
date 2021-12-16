@@ -28,12 +28,14 @@ class SortAlgorithmsTest {
     void setUp() throws Exception {
     }
 
-
     @DisplayName("Should sort correctly an empty array")
     @Test
     void isWellSortedEmptyArray() {
         Integer[] arrayToTest = new Integer[0];
         testSortingAlgorithm(arrayToTest);
+
+        //GROS TEST
+        String test="CEST UN TEST";
     }
 
     @DisplayName("Should sort correctly arrays")
